@@ -1,2 +1,4 @@
 User service to ass user to the group
 process the data
+
+create an avatar for the new branch 
